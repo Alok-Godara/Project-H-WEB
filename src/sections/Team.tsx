@@ -9,7 +9,7 @@ const Team: React.FC = () => {
       role: "Co-Founder & CEO",
       bio: "Web Developer",
       image:
-        "https://images.pexels.com/photos/5490276/pexels-photo-5490276.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "./src/public/alok.jpeg",
       linkedin: "#",
       email: "aditya@ayubharat.in",
     },
@@ -18,7 +18,7 @@ const Team: React.FC = () => {
       role: "Co-Founder & CTO",
       bio: "AI Engineer",
       image:
-        "https://images.pexels.com/photos/3796217/pexels-photo-3796217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "./src/public/naveen.jpeg",
       linkedin: "#",
       github: "#",
       email: "neha@ayubharat.in",
@@ -28,7 +28,7 @@ const Team: React.FC = () => {
       role: "Co-Founder & COO",
       bio: "AI Engineer",
       image:
-        "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "./src/public/fazil.jpeg",
       linkedin: "#",
       email: "vivek@ayubharat.in",
     },
@@ -40,7 +40,7 @@ const Team: React.FC = () => {
       role: "Healthcare Policy Advisor",
       bio: "Mentor",
       image:
-        "https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "./src/public/siddhart.jpeg",
       linkedin: "#",
     },
     {
@@ -48,7 +48,7 @@ const Team: React.FC = () => {
       role: "Technology Advisor",
       bio: "Invester",
       image:
-        "https://images.pexels.com/photos/8353744/pexels-photo-8353744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "./src/public/jckif.jpeg",
       linkedin: "#",
     },
   ];
