@@ -69,8 +69,8 @@ const Contact: React.FC = () => {
                   <div>
                     <h4 className="font-medium text-slate-800 mb-1">Office</h4>
                     <p className="text-slate-600">
-                      T-Hub, IIIT Campus, Gachibowli<br />
-                      Hyderabad, Telangana 500032
+                      IIT Jodhpur Campus, Karwar<br />
+                      Jodhpur, Rajasthan 342037
                     </p>
                   </div>
                 </div>
@@ -81,7 +81,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-slate-800 mb-1">Phone</h4>
-                    <p className="text-slate-600">+91 9876543210</p>
+                    <p className="text-slate-600">+91 9701114611</p>
                   </div>
                 </div>
               </div>
@@ -131,7 +131,7 @@ const Contact: React.FC = () => {
                   {formStatus.message}
                 </div>
               ) : (
-                <form onSubmit={handleSubmit} className="space-y-6">
+                <form onSubmit={handleSubmit} className="space-y-6" name="contact" method="POST" data-netlify="true">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div>
                       <label htmlFor="name" className="block text-sm font-medium text-slate-700 mb-1">
