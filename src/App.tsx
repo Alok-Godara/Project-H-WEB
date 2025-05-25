@@ -27,7 +27,10 @@ function App() {
         <About />
         <Products />
         <WhyUs />
-        <Privacy />
+        {/* <Privacy />
+        <BusinessModel />
+        <Market />
+        <Strategy /> */}
         <Team />
         <Contact />
       </main>

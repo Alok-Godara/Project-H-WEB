@@ -44,7 +44,7 @@ const Footer: React.FC = () => {
               <li className="flex items-center space-x-2">
                 <Mail className="h-5 w-5 text-slate-400" />
                 <a href="mailto:contact@ayubharat.in" className="text-slate-300 hover:text-white transition-colors">
-                  contact@ayubharat.in
+                  b22ai046@iitj.ac.in
                 </a>
               </li>
             </ul>

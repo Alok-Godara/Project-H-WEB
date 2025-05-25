@@ -51,6 +51,13 @@ const Hero: React.FC = () => {
           </div>
         </div>
       </div>
+      
+      {/* <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">
+        <a href="#about" className="flex flex-col items-center text-slate-500 hover:text-primary-600 transition-colors">
+          <span className="text-sm mb-1">Learn More</span>
+          <ChevronDown className="h-5 w-5" />
+        </a>
+      </div> */}
     </section>
   );
 };
