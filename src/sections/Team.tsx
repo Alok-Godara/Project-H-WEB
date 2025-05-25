@@ -18,7 +18,7 @@ const Team: React.FC = () => {
       role: "Co-Founder & CTO",
       bio: "AI Engineer",
       image:
-        "naveen.jpeg",
+        "naveen.jpg",
       linkedin: "#",
       github: "#",
       email: "neha@ayubharat.in",
@@ -28,7 +28,7 @@ const Team: React.FC = () => {
       role: "Co-Founder & COO",
       bio: "AI Engineer",
       image:
-        "fazil.jpeg",
+        "fazil.jpg",
       linkedin: "#",
       email: "vivek@ayubharat.in",
     },
@@ -36,11 +36,11 @@ const Team: React.FC = () => {
 
   const advisors = [
     {
-      name: "Dr. Siddhart Srivastava",
+      name: "Dr. Siddharth Srivastava",
       role: "Healthcare Policy Advisor",
       bio: "Mentor",
       image:
-        "siddhart.jpeg",
+        "Siddharth.jpeg",
       linkedin: "#",
     },
     {
@@ -48,7 +48,7 @@ const Team: React.FC = () => {
       role: "Technology Advisor",
       bio: "Invester",
       image:
-        "jckif.jpeg",
+        "jckif.jpg",
       linkedin: "#",
     },
   ];
