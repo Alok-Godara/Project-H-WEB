@@ -9,7 +9,7 @@ const Team: React.FC = () => {
       role: "Co-Founder & CEO",
       bio: "Web Developer",
       image:
-        "./src/public/alok.jpeg",
+        "alok.jpeg",
       linkedin: "#",
       email: "aditya@ayubharat.in",
     },
@@ -18,7 +18,7 @@ const Team: React.FC = () => {
       role: "Co-Founder & CTO",
       bio: "AI Engineer",
       image:
-        "./src/public/naveen.jpeg",
+        "naveen.jpeg",
       linkedin: "#",
       github: "#",
       email: "neha@ayubharat.in",
@@ -28,7 +28,7 @@ const Team: React.FC = () => {
       role: "Co-Founder & COO",
       bio: "AI Engineer",
       image:
-        "./src/public/fazil.jpeg",
+        "fazil.jpeg",
       linkedin: "#",
       email: "vivek@ayubharat.in",
     },
@@ -40,7 +40,7 @@ const Team: React.FC = () => {
       role: "Healthcare Policy Advisor",
       bio: "Mentor",
       image:
-        "./src/public/siddhart.jpeg",
+        "siddhart.jpeg",
       linkedin: "#",
     },
     {
@@ -48,7 +48,7 @@ const Team: React.FC = () => {
       role: "Technology Advisor",
       bio: "Invester",
       image:
-        "./src/public/jckif.jpeg",
+        "jckif.jpeg",
       linkedin: "#",
     },
   ];
