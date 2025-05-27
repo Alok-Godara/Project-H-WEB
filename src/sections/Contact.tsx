@@ -56,8 +56,8 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-slate-800 mb-1">Email</h4>
-                    <a href="mailto:contact@Project-H.in" className="text-primary-600 hover:text-primary-700 transition-colors">
-                      b22ai046@iitj.ac.in
+                    <a href="mailto:b22ai046@iitj.ac.in" className="text-primary-600 hover:text-primary-700 transition-colors">
+                      contact@Project-H.in
                     </a>
                   </div>
                 </div>
@@ -81,12 +81,12 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-slate-800 mb-1">Phone</h4>
-                    <p className="text-slate-600">+91 9701114611</p>
+                    <p className="text-slate-600">+91 9350888701</p>
                   </div>
                 </div>
               </div>
               
-              <div className="mt-8 pt-6 border-t border-slate-100">
+              {/* <div className="mt-8 pt-6 border-t border-slate-100">
                 <h4 className="font-medium text-slate-800 mb-3">Follow Us</h4>
                 <div className="flex space-x-4">
                   <a href="#" className="p-2 bg-slate-100 hover:bg-primary-100 rounded-md text-slate-600 hover:text-primary-600 transition-colors">
@@ -115,7 +115,7 @@ const Contact: React.FC = () => {
                     </svg>
                   </a>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
           

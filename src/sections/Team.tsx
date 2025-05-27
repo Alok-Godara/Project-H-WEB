@@ -7,16 +7,16 @@ const Team: React.FC = () => {
     {
       name: "Alok Godara",
       role: "Co-Founder & CEO",
-      bio: "Web Developer",
+      bio: "Co-Founder",
       image:
-        "alok.jpeg",
+        "alok.png",
       linkedin: "#",
       email: "aditya@Project-H.in",
     },
     {
       name: "Naveen Nokhwal",
       role: "Co-Founder & CTO",
-      bio: "AI Engineer",
+      bio: "Co-Founder",
       image:
         "naveen.jpg",
       linkedin: "#",
@@ -26,7 +26,7 @@ const Team: React.FC = () => {
     {
       name: "Ch. Md. Fazil ",
       role: "Co-Founder & COO",
-      bio: "AI Engineer",
+      bio: "Co-Founder",
       image:
         "fazil.jpg",
       linkedin: "#",
@@ -38,7 +38,7 @@ const Team: React.FC = () => {
     {
       name: "Dr. Siddharth Srivastava",
       role: "Healthcare Policy Advisor",
-      bio: "Mentor",
+      bio: "Mentor Center of Medical Technology IITJ",
       image:
         "Siddharth.jpeg",
       linkedin: "#",
@@ -46,7 +46,7 @@ const Team: React.FC = () => {
     {
       name: "JCKIF",
       role: "Technology Advisor",
-      bio: "Invester",
+      bio: "JODHPUR CITY KNOWLEDGE AND INNOVATION FOUNDATION",
       image:
         "jckif.jpg",
       linkedin: "#",
@@ -69,7 +69,7 @@ const Team: React.FC = () => {
               className="card hover:shadow-lg group w-full md:w-80 mx-auto"
             >
               <div className="relative overflow-hidden rounded-lg mb-4">
-                <div className="aspect-w-9 aspect-h-16">
+                <div className="aspect-w-9 aspect-h-16 ">
                   <img
                     src={member.image}
                     alt={member.name}

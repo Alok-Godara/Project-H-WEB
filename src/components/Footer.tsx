@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
               Digitizing India's healthcare for a smarter future by turning handwritten 
               prescriptions into structured digital records using powerful AI.
             </p>
-            <div className="flex space-x-4">
+            {/* <div className="flex space-x-4">
               <a href="#" className="text-white hover:text-primary-400 transition-colors">
                 <Github className="h-5 w-5" />
               </a>
@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
               <a href="#" className="text-white hover:text-primary-400 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div>
@@ -43,8 +43,8 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2">
                 <Mail className="h-5 w-5 text-slate-400" />
-                <a href="mailto:contact@Project-H.in" className="text-slate-300 hover:text-white transition-colors">
-                  b22ai046@iitj.ac.in
+                <a href="mailto:b22ai046@iitj.ac.in" className="text-slate-300 hover:text-white transition-colors">
+                  contact@Project-H.in
                 </a>
               </li>
             </ul>
