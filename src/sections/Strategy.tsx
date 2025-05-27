@@ -8,7 +8,7 @@ const Strategy: React.FC = () => {
       <div className="container">
         <SectionHeading
           title="Go-To-Market Strategy"
-          subtitle="Our approach to bringing AyuBharat's solutions to India's healthcare ecosystem."
+          subtitle="Our approach to bringing Project-H's solutions to India's healthcare ecosystem."
         />
         
         <div className="mt-12 relative">

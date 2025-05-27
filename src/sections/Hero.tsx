@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
               Digitizing India's Healthcare for a Smarter Future
             </h1>
             <p className="text-xl text-slate-700 mb-8 max-w-xl">
-              AyuBharat is a health-tech startup turning handwritten prescriptions into structured digital records using powerful AI.
+              Project-H is a health-tech startup turning handwritten prescriptions into structured digital records using powerful AI.
             </p>
             <div className="flex flex-wrap gap-4">
               <a href="#contact" className="btn btn-primary">

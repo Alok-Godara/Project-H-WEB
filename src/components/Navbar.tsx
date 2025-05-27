@@ -36,7 +36,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center py-4">
           <a href="#" className="flex items-center space-x-2">
             <Heart className="h-8 w-8 text-primary-600" />
-            <span className="text-xl font-bold text-primary-900">AyuBharat</span>
+            <span className="text-xl font-bold text-primary-900">Project-H</span>
           </a>
 
           {/* Desktop Navigation */}

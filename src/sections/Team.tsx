@@ -11,7 +11,7 @@ const Team: React.FC = () => {
       image:
         "alok.jpeg",
       linkedin: "#",
-      email: "aditya@ayubharat.in",
+      email: "aditya@Project-H.in",
     },
     {
       name: "Naveen Nokhwal",
@@ -21,7 +21,7 @@ const Team: React.FC = () => {
         "naveen.jpg",
       linkedin: "#",
       github: "#",
-      email: "neha@ayubharat.in",
+      email: "neha@Project-H.in",
     },
     {
       name: "Ch. Md. Fazil ",
@@ -30,7 +30,7 @@ const Team: React.FC = () => {
       image:
         "fazil.jpg",
       linkedin: "#",
-      email: "vivek@ayubharat.in",
+      email: "vivek@Project-H.in",
     },
   ];
 
@@ -58,7 +58,7 @@ const Team: React.FC = () => {
       <div className="container">
         <SectionHeading
           title="Our Team"
-          subtitle="Meet the passionate team behind AyuBharat combining expertise in healthcare, AI, and product development."
+          subtitle="Meet the passionate team behind Project-H combining expertise in healthcare, AI, and product development."
           center
         />
 

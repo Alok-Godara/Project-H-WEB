@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Heart className="h-6 w-6 text-primary-500" />
-              <span className="text-xl font-bold">AyuBharat</span>
+              <span className="text-xl font-bold">Project-H</span>
             </div>
             <p className="text-slate-300 mb-4 max-w-md">
               Digitizing India's healthcare for a smarter future by turning handwritten 
@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li><a href="#about" className="text-slate-300 hover:text-white transition-colors">About Us</a></li>
               <li><a href="#products" className="text-slate-300 hover:text-white transition-colors">Products</a></li>
-              <li><a href="#why-us" className="text-slate-300 hover:text-white transition-colors">Why AyuBharat</a></li>
+              <li><a href="#why-us" className="text-slate-300 hover:text-white transition-colors">Why Project-H</a></li>
               <li><a href="#team" className="text-slate-300 hover:text-white transition-colors">Our Team</a></li>
             </ul>
           </div>
@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2">
                 <Mail className="h-5 w-5 text-slate-400" />
-                <a href="mailto:contact@ayubharat.in" className="text-slate-300 hover:text-white transition-colors">
+                <a href="mailto:contact@Project-H.in" className="text-slate-300 hover:text-white transition-colors">
                   b22ai046@iitj.ac.in
                 </a>
               </li>
@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-slate-800 mt-12 pt-8 text-center text-slate-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} AyuBharat. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Project-H. All rights reserved.</p>
         </div>
       </div>
     </footer>

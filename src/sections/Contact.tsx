@@ -40,7 +40,7 @@ const Contact: React.FC = () => {
       <div className="container">
         <SectionHeading
           title="Contact Us"
-          subtitle="Get in touch with our team to learn more about AyuBharat or discuss potential collaborations."
+          subtitle="Get in touch with our team to learn more about Project-H or discuss potential collaborations."
           center
         />
         
@@ -56,7 +56,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-slate-800 mb-1">Email</h4>
-                    <a href="mailto:contact@ayubharat.in" className="text-primary-600 hover:text-primary-700 transition-colors">
+                    <a href="mailto:contact@Project-H.in" className="text-primary-600 hover:text-primary-700 transition-colors">
                       b22ai046@iitj.ac.in
                     </a>
                   </div>

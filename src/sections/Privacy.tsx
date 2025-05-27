@@ -77,7 +77,7 @@ const Privacy: React.FC = () => {
               <div>
                 <h3 className="text-lg font-semibold mb-2">Revoke Access Anytime</h3>
                 <p className="text-slate-600">
-                  Change your mind? Revoke access instantly through the AyuBharat app or web portal, with immediate effect across all systems.
+                  Change your mind? Revoke access instantly through the Project-H app or web portal, with immediate effect across all systems.
                 </p>
               </div>
             </div>

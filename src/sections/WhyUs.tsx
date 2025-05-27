@@ -7,7 +7,7 @@ const WhyUs: React.FC = () => {
     <section id="why-us" className="section-padding bg-white">
       <div className="container">
         <SectionHeading
-          title="Why Choose AyuBharat?"
+          title="Why Choose Project-H?"
           subtitle="Our solution offers significant advantages over traditional healthcare documentation methods."
         />
         
@@ -22,7 +22,7 @@ const WhyUs: React.FC = () => {
                   Traditional Approach
                 </th>
                 <th className="px-6 py-4 text-center text-sm font-semibold text-primary-700 uppercase tracking-wider">
-                  AyuBharat Solution
+                  Project-H Solution
                 </th>
               </tr>
             </thead>
@@ -117,7 +117,7 @@ const WhyUs: React.FC = () => {
         </div>
         
         <div className="mt-12 bg-primary-50 rounded-xl p-8">
-          <h3 className="text-xl font-semibold mb-4 text-primary-900">The AyuBharat Advantage</h3>
+          <h3 className="text-xl font-semibold mb-4 text-primary-900">The Project-H Advantage</h3>
           <p className="text-slate-700 mb-6">
             Our solution preserves the familiar workflow for healthcare providers while adding powerful digital capabilities. Doctors can continue writing prescriptions by hand, and our AI does the rest - creating structured, accessible digital records instantly.
           </p>

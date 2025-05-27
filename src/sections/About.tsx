@@ -58,7 +58,7 @@ const About: React.FC = () => {
                 India generates billions of handwritten prescriptions annually that remain inaccessible as digital data. This creates fragmented patient histories, medication errors, and missed insights.
               </p>
               <p className="text-slate-700">
-                AyuBharat bridges this gap by turning paper prescriptions into structured digital records that integrate with India's healthcare ecosystem, while respecting patient privacy and consent.
+                Project-H bridges this gap by turning paper prescriptions into structured digital records that integrate with India's healthcare ecosystem, while respecting patient privacy and consent.
               </p>
             </div>
             <div className="relative">
