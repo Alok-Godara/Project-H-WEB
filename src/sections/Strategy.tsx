@@ -17,7 +17,7 @@ const Strategy: React.FC = () => {
           <div className="space-y-16">
             {/* Phase 1 */}
             <div className="relative">
-              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-8 h-8 rounded-full bg-primary-600 text-white flex items-center justify-center font-bold border-4 border-white hidden md:flex">1</div>
+              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-8 h-8 rounded-full bg-primary-600 text-white flex items-center justify-center font-bold border-4 border-white  md:flex">1</div>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                 <div className="md:text-right">
@@ -52,7 +52,7 @@ const Strategy: React.FC = () => {
                 <div className="relative">
                   <div className="absolute -inset-0.5 bg-gradient-to-r from-primary-500 to-primary-300 rounded-lg blur opacity-30 hidden md:block"></div>
                   <div className="relative md:ml-8">
-                    <div className="hidden md:block p-3 rounded-full bg-primary-100 text-primary-600 mb-4 inline-flex">
+                    <div className=" md:block p-3 rounded-full bg-primary-100 text-primary-600 mb-4 inline-flex">
                       <Target className="h-6 w-6" />
                     </div>
                     <div className="bg-white rounded-lg shadow-md p-6">
@@ -79,7 +79,7 @@ const Strategy: React.FC = () => {
             
             {/* Phase 2 */}
             <div className="relative">
-              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-8 h-8 rounded-full bg-secondary-600 text-white flex items-center justify-center font-bold border-4 border-white hidden md:flex">2</div>
+              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-8 h-8 rounded-full bg-secondary-600 text-white flex items-center justify-center font-bold border-4 border-white  md:flex">2</div>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                 <div className="md:order-2 md:text-left">
@@ -114,7 +114,7 @@ const Strategy: React.FC = () => {
                 <div className="relative md:order-1">
                   <div className="absolute -inset-0.5 bg-gradient-to-r from-secondary-500 to-secondary-300 rounded-lg blur opacity-30 hidden md:block"></div>
                   <div className="relative md:mr-8">
-                    <div className="hidden md:block p-3 rounded-full bg-secondary-100 text-secondary-600 mb-4 inline-flex">
+                    <div className=" md:block p-3 rounded-full bg-secondary-100 text-secondary-600 mb-4 inline-flex">
                       <Lightbulb className="h-6 w-6" />
                     </div>
                     <div className="bg-white rounded-lg shadow-md p-6">
@@ -141,7 +141,7 @@ const Strategy: React.FC = () => {
             
             {/* Phase 3 */}
             <div className="relative">
-              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-8 h-8 rounded-full bg-accent-600 text-white flex items-center justify-center font-bold border-4 border-white hidden md:flex">3</div>
+              <div className="absolute top-0 left-1/2 -translate-x-1/2 w-8 h-8 rounded-full bg-accent-600 text-white flex items-center justify-center font-bold border-4 border-white  md:flex">3</div>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                 <div className="md:text-right">
@@ -176,7 +176,7 @@ const Strategy: React.FC = () => {
                 <div className="relative">
                   <div className="absolute -inset-0.5 bg-gradient-to-r from-accent-500 to-accent-300 rounded-lg blur opacity-30 hidden md:block"></div>
                   <div className="relative md:ml-8">
-                    <div className="hidden md:block p-3 rounded-full bg-accent-100 text-accent-600 mb-4 inline-flex">
+                    <div className=" md:block p-3 rounded-full bg-accent-100 text-accent-600 mb-4 inline-flex">
                       <BadgeCheck className="h-6 w-6" />
                     </div>
                     <div className="bg-white rounded-lg shadow-md p-6">
